@@ -42,11 +42,12 @@ python3 fix_overlay.py
 ```
 
 Each processed file is logged like:
-
-
 ```bash
 ↻ arcade-artwork/baluba.cfg
+↻ ...
 ```
+
+Enjoy your perfectly centred overlays! 🎮
 
 ## Tested on
  
@@ -58,10 +59,7 @@ Pure-Python → should run on Linux, Windows and macOS.
 
 ---
 
-
 License
 MIT © 2025 Sir_Leon — use freely, no warranty.
-Enjoy your perfectly centred overlays! 🎮
-
 
 ```
